@@ -1,3 +1,3 @@
 var date = new Date();
 console.log(date);
-document.getElementById("demo").innerHTML = date;
+// document.getElementById("demo").innerHTML = date;
